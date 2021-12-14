@@ -47,7 +47,7 @@
    
    
    ```  
-   b.intensity.value = Mathf.Lerp(b.intensity.value, desiredValueBloomIntensity, bloomLerpTime); 
+   b.threshold.value = Mathf.Lerp(b.threshold.value, desiredValueBloomThreshold, bloomLerpTime); 
    ```
    
    ### So, yeah I hope this script somewhat helps you in your coding journey, anyways, see you in my next repository!
