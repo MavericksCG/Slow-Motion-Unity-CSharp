@@ -24,9 +24,7 @@
    alternatively, you can use this for values which are not clamped: 
    
    ```
-
    public float desiredValueMyPostProcessingEffect;
-
    ```
    
    Then, set a lerp time amount (The RANGE attribute MATTERS here)
@@ -36,10 +34,12 @@
    ``` [Range(0f, 1f)] public float myPostProcessingEffectLerpTime; ```
 
    
-   Then, you can add a new line in the ``` { SlowMotionEnableDisable } ``` function and write the following code:
+   Then, you can add a new line in the ``` SlowMotionEnableDisable ``` function and write the following code:
    
    
    ``` myPostProcessingEffect.intensity.value = Mathf.Lerp(myPostProcessingEffect.intensity.value, desiredValueMyPostProcessingEffect, myPostProcessingEffectLerpTime); ```
+   
+   
    Oh, and also, it's not necessary to only change the intensity, you can also change other properties. For eg. here, I change the threshold of my bloom effect when you enter      slow-motion!
    
    
