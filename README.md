@@ -50,7 +50,7 @@
    b.intensity.value = Mathf.Lerp(b.intensity.value, desiredValueBloomIntensity, bloomLerpTime); 
    ```
    
-   ### So, yeah I hope this script somewhat helps you in your coding journey, and until then, see you in my next repository!
-   ** -Mavericks **
+   ### So, yeah I hope this script somewhat helps you in your coding journey, anyways, see you in my next repository!
+   **-Mavericks**
     
 
