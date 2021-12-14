@@ -27,9 +27,8 @@
    public float desiredValueMyPostProcessingEffect;
    ```
    
-   Then, set a lerp time amount (The RANGE attribute MATTERS here)
+   Then, set a lerp time amount (The RANGE attribute MATTERS here):
    
-
    
    ``` [Range(0f, 1f)] public float myPostProcessingEffectLerpTime; ```
 
