@@ -1,6 +1,6 @@
 # Simple Slow Motion made for the Unity Game Engine
 
-## Please note that this only works with the [Universal Render Pipeline](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@11.0/manual/)
+## Please note that the post-processing settings only work with the [Universal Render Pipeline](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@11.0/manual/)
 
 # How can you modify this?
 **There are multiple ways to modify this script. You can add some post-processing effects, remove some of them, basically you can do a lot**
