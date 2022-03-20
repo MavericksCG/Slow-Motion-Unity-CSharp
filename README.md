@@ -43,7 +43,7 @@
    ```
    
    
-   Oh, and also, it's not necessary to only change the intensity, you can also change other properties. For eg. here, I change the threshold of my bloom effect when you enter      slow-motion!
+   Oh, and also, it's not necessary to only change the intensity, you can also change other properties. For eg. here, I changed the threshold of my bloom effect when you enter      slow-motion!
    
    
    ```  
