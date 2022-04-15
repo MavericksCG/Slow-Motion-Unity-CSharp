@@ -1,6 +1,6 @@
 # Simple Slow Motion made for the Unity Game Engine
 
-![Unity Game Engine Logo](https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png)
+![Unity Game Engine Logo](https://i.redd.it/tu3gt6ysfxq71.png)
 
 ## Please note that the post-processing settings only work with the [Universal Render Pipeline](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@11.0/manual/)
 
